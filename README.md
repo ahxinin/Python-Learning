@@ -1,2 +1,4 @@
 # Python-Learning
-python学习
+python学习记录
+
+exercise  练习demo
